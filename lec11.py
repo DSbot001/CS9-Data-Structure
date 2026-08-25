@@ -736,3 +736,4 @@ KEY IDEAS
 
     The lecture uses getters and setters to practice encapsulation.
 """
+
