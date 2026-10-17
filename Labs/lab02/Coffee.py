@@ -10,6 +10,3 @@ class Coffee(Beverage):
     def getInfo(self):
         return f"{self.style} Coffee, {super().getInfo()}"
 
-
-c1 = Coffee(8, 3.0, "Espresso")
-print(c1.getInfo())
